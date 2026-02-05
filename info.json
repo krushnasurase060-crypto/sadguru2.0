@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "mainVideo": "Video_1.mp4",
+    "exactLocation": "Near Mourya Mangal Karyalay, Pipline Road, Ahilynagar",
+    "sizeSqFt": 3500,
+    "estimatedPrice": "25 Lakhs",
+    "specifications": [
+      "2 Bedrooms",
+      "2 Bathrooms",
+      "Garden",
+      "Car Parking"
+    ],
+    "description": "Good Bungalow located in a serene neighborhood."
+  },
+  {
+    "id": 2,
+    "mainVideo": "Video_2.mp4",
+    "exactLocation": "South City, Block B",
+    "sizeSqFt": 1800,
+    "estimatedPrice": "85 Lakhs",
+    "specifications": [
+      "3 BHK",
+      "City View",
+      "Balcony",
+      "24/7 Security"
+    ],
+    "description": "3BHK apartment with premium finishes."
+  },
+  {
+    "id": 3,
+    "mainVideo": "Video_3.mp4",
+    "exactLocation": "Business District, Tower 5",
+    "sizeSqFt": 5000,
+    "estimatedPrice": "4.2 Cr",
+    "specifications": [
+      "Prime commercial location",
+      "High footfall",
+      "Parking available"
+    ],
+    "description": "Prime commercial space in business district."
+  },
+  {
+    "id": 4,
+    "mainVideo": "Video_4.mp4",
+    "exactLocation": "West City outskirts",
+    "sizeSqFt": 2400,
+    "estimatedPrice": "1.2 Cr",
+    "specifications": [
+      "Approved plot",
+      "Good connectivity"
+    ],
+    "description": "Prime residential plot with all approvals."
+  },
+  {
+    "id": 5,
+    "mainVideo": "Video_5.mp4",
+    "exactLocation": "North City, Phase 2",
+    "sizeSqFt": 1200,
+    "estimatedPrice": "65 Lakhs",
+    "specifications": [
+      "2 BHK",
+      "Modern amenities",
+      "Gym / Pool access"
+    ],
+    "description": "Modern 2BHK apartment with premium amenities."
+  },
+  {
+    "id": 6,
+    "mainVideo": "Video_6.mp4",
+    "exactLocation": "South City, Penthouse Level",
+    "sizeSqFt": 4200,
+    "estimatedPrice": "3.5 Cr",
+    "specifications": [
+      "4 Bedrooms",
+      "Panoramic views",
+      "Private terrace"
+    ],
+    "description": "Penthouse with panoramic views and luxury finishes."
+  },{
+    "id": 7,
+    "mainVideo": "Video_7.mp4",
+    "exactLocation": "Wadgaon gupta, commercials",
+    "sizeSqFt": 3000,
+    "estimatedPrice": "1.0-1.2 Cr",
+    "specifications": [
+      "5 Bedrooms",
+      "Panoramic views",
+      "Private terrace"
+    ],
+    "description": "Good Commercial property."
+  }
+]
